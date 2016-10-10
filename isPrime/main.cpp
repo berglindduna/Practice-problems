@@ -1,4 +1,4 @@
-// 26.08.2015
+// 28.08.2015
 // Checks if a number is a prime nunmber
 #include <iostream>
 
