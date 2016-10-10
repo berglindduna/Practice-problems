@@ -1,0 +1,2 @@
+12321 is a palindrome number
+123456983 is not a palindrome number
