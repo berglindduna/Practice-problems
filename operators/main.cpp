@@ -1,4 +1,6 @@
 // 28.08.2015
+// Input: 3 int numbers
+// Prints out what operator match with the 3 given numbers
 
 #include <iostream>
 
