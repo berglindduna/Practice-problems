@@ -1,0 +1,2 @@
+6 is not a prime number!
+13 is a prime number!
