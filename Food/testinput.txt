@@ -1,0 +1,8 @@
+Chicken 9
+Sandwich 6
+
+Soup 5
+Pizza 8
+
+Yogurt 3
+Candybar 3
