@@ -1,4 +1,4 @@
-// 28.08.2014
+// 06.09.2014
 // Checks if the number is a palindrome number
 
 #include <iostream>
